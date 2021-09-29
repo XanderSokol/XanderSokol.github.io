@@ -1,11 +1,14 @@
 .wrap{
 	background-color: red;
 	padding: 10px 10px;
+	di
 }
 
 .wrap-inner{
 
 	border: 20px solid green;
 	background-color: white;
+	display: flex;
+	justify-content: center;
 
 }
