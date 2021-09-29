@@ -1,0 +1,11 @@
+.wrap{
+	background-color: red;
+	padding: 10px 10px;
+}
+
+.wrap-inner{
+
+	border: 20px solid green;
+	background-color: white;
+
+}
