@@ -13,25 +13,45 @@
 .section-2{
 
 	background: url('assets/img/background.png') no-repeat ;
-
+justify-content: center;
+    align-items: center;
+    height: 670px;
 
 
 	}
 
 
-	.main_text {
+.main_text {
 
 
 		color: rgb(204, 204, 204);
+		padding-top: 50px;
 	}
 
-	.main_text a{
+.main_text a{
 		color: rgb(204, 204, 204);
 	}
 
+
+
+.image {
+
+	/*padding:155px 0;*/
+}
 
 .text{
 
-	padding-top: 20px;
-	padding-bottom: 20px;
+/*padding:155px 0;*/
+}
+
+a.learn-more{
+
+	font-weight: 700;
+	    border: 2px solid #ffc107;
+	    margin-right: 16px;
+}
+
+a.quote{
+border: 2px solid;
+
 }
