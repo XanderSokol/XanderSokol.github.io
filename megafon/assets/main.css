@@ -209,3 +209,10 @@ button.button{
 	min-height: 250px;
 	background-color: #333;
 }
+
+
+span{
+	    position: relative;
+    float: right;
+    font-size: 17px;
+}
