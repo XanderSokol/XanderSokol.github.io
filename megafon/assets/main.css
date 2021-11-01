@@ -129,13 +129,10 @@ button.button{
     font-weight: 300;
     box-sizing: border-box;
     z-index: 100;
-    /* font-family: Verdana, sans-serif; */
     font-size: 18px;
     transition: color .35s;
-    /* border: 1px solid #ededed; */
     margin: 5px 0px 0px 0px;
     border-top: 3px solid #ededed;
-    /* border-bottom: 1px solid #ededed; */
 }
 .acor-container label:hover {
   
@@ -150,7 +147,6 @@ button.button{
 .acor-container input:checked + label {
         background-color: #ededed00;
     color: #000;
-    /* box-shadow: 0 8px 26px rgba(0,0,0,0.4), 0 28px 30px rgba(0,0,0,0.3); */
 }
 .acor-container input:checked + label:before {
     transition: transform .35s;
@@ -193,13 +189,10 @@ button.button{
     font-weight: 300;
     box-sizing: border-box;
     z-index: 100;
-    /* font-family: Verdana, sans-serif; */
     transition: color .35s;
-    /* border: 1px solid #ededed; */
     margin: 5px 0px 0px 0px;
     font-size: 12px;
     border: none;
-    /* border-bottom: 1px solid #ededed; */
     text-decoration: dotted;
 }
 
