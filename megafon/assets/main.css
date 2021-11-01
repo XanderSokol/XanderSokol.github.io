@@ -216,3 +216,7 @@ span{
     float: right;
     font-size: 17px;
 }
+
+.sec3{
+	border-bottom: none;
+}
