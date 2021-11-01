@@ -202,3 +202,10 @@ button.button{
     /* border-bottom: 1px solid #ededed; */
     text-decoration: dotted;
 }
+
+
+
+.footer{
+	min-height: 250px;
+	background-color: #333;
+}
